@@ -85,7 +85,8 @@ $DIRECTORY_FALLBACK_SERVERS = array(
 	'https://red.zottel.red',
 	'https://gravizot.de',
 	'https://blablanet.com',
-	'https://my.federated.social'
+	'https://my.federated.social',
+	'https://hubzilla.nl'
 );
 
 
